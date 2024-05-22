@@ -2,7 +2,7 @@
 <h2>About me</h2>
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif"  />
-<h3 align="left">👋 Hola, soy Martin Flores.<br><br>📍 Soy de Sinaloa, México.<br><br>🎓 Estudio Ingeniería en Sistemas Computacionales.<br><br>💻 Apasionado por la tecnología y el desarrollo de software.<br><br>🚀 Interesado en proyectos de código abierto y colaboración en equipo.<br><br>📚 Siempre aprendiendo y explorando nuevas tecnologías.</h3>
+<h3 align="left">👋 Hello, I'm Martin Flores.<br><br>📍 I'm from Mexico.<br><br>🎓 I study Computer Systems Engineering.<br><br>💻 Passionate about technology and software development.<br><br>🚀 Interested in open-source projects and teamwork collaboration.<br><br>📚 Always learning and exploring new technologies.</h3>
 
 ###
 <h2>🔥   My Stats</h2>
