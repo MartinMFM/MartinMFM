@@ -5,7 +5,7 @@
 <h3 align="left">👋 Hola, soy Martin Flores.<br><br>📍 Soy de Sinaloa, México.<br><br>🎓 Estudio Ingeniería en Sistemas Computacionales.<br><br>💻 Apasionado por la tecnología y el desarrollo de software.<br><br>🚀 Interesado en proyectos de código abierto y colaboración en equipo.<br><br>📚 Siempre aprendiendo y explorando nuevas tecnologías.</h3>
 
 ###
-<h2>🔥   My Stats :</h2>
+<h2>🔥   My Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartinMFM&theme=dracula&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinMFM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -49,7 +49,7 @@
 </div>
 
 ###
-
+<h2>Contributions</h2>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MartinMFM/MartinMFM/output/snake.svg" alt="Snake animation" />
