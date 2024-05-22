@@ -1,16 +1,18 @@
-<h2 align="left">👋 Hola, soy Martin Flores.<br><br>📍 Soy de Sinaloa, México.<br><br>🎓 Estudio Ingeniería en Sistemas Computacionales.<br><br>💻 Apasionado por la tecnología y el desarrollo de software.<br><br>🚀 Interesado en proyectos de código abierto y colaboración en equipo.<br><br>📚 Siempre aprendiendo y explorando nuevas tecnologías.</h2>
+###
+<h2>About me</h2>
+
+<img align="right" height="150" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif"  />
+<h3 align="left">👋 Hola, soy Martin Flores.<br><br>📍 Soy de Sinaloa, México.<br><br>🎓 Estudio Ingeniería en Sistemas Computacionales.<br><br>💻 Apasionado por la tecnología y el desarrollo de software.<br><br>🚀 Interesado en proyectos de código abierto y colaboración en equipo.<br><br>📚 Siempre aprendiendo y explorando nuevas tecnologías.</h3>
 
 ###
-
+<h2>🔥   My Stats :</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartinMFM&theme=dracula&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinMFM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif"  />
-
+<h2>🛠 Language and tools</h2>
 ###
 
 <div align="left">
@@ -42,7 +44,7 @@
 </div>
 
 ###
-
+<h2></h2>
 <div align="left">
 </div>
 
