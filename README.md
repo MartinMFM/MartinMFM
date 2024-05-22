@@ -51,7 +51,5 @@
 ###
 <h2>Contributions</h2>
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/MartinMFM/MartinMFM/output/snake.svg" alt="Snake animation" />
-
 ###
