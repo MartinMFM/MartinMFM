@@ -42,10 +42,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
-###
-<h2></h2>
-<div align="left">
-</div>
-
-###
-<h2>Contributions</h2>
